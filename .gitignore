@@ -53,3 +53,6 @@ Thumbs.db
 **/.dev.vars
 wrangler.toml
 .npmrc
+
+# Edgio generated build directory
+.edgio
